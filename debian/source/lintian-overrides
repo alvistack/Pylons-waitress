@@ -1,0 +1,5 @@
+python-waitress source: file-without-copyright-information
+python-waitress source: no-debian-changes
+python-waitress source: source-contains-prebuilt-windows-binary
+python-waitress source: source-is-missing
+python-waitress source: source-package-encodes-python-version
