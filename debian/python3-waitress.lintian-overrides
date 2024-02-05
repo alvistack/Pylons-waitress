@@ -1,0 +1,4 @@
+python3-waitress: copyright-without-copyright-notice
+python3-waitress: initial-upload-closes-no-bugs
+python3-waitress: no-manual-page
+python3-waitress: zero-byte-file-in-doc-directory
